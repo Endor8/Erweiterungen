@@ -58,7 +58,7 @@
 <!ENTITY srcURLs.caption "Quell-Webseitenadressen">
 <!ENTITY removeAllSrcURLs.label "Alles entfernen">
 <!ENTITY removeAllSrcURLs.accesskey "e">
-<!ENTITY removeAllSrcURLs.description "Alle Quell-Webseitenadressen(URLs) entfernen">
+<!ENTITY removeAllSrcURLs.description "Alle Quell-Webseitenadressen (URLs) entfernen">
 
 <!ENTITY showStatusBar.label "In der Statusleiste anzeigen">
 <!ENTITY showStatusBar.accesskey "S">
